@@ -39,6 +39,6 @@ freely available in the Download section
 
 ## Authors
 
-* **Lazzarino Ivo** - [iwQku](https://github.com/kQiW/)
+* **Lazzarino Ivo** - [kQiW](https://github.com/kQiW/)
 
 
