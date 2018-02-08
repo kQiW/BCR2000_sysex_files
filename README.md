@@ -3,20 +3,20 @@
 
 A basic SysEx file for Behringer BCR2000 .
 
-[Download the sysex file bcr2000_backup_1.syx from GitHub](https://github.com/iwQku/BCR2000_sysex_files_0/raw/master/bcr2000_backup_1.syx)
+[Download the sysex file bcr2000_backup_1.syx from GitHub](https://github.com/kQiW/BCR2000_sysex_files/raw/master/bcr2000_backup_1.syx)
 
 
 ## Midi channel 1 , Preset 1
 
-![Preset1](https://github.com/iwQku/BCR2000_sysex_files_0/blob/master/images/bcr2000_sysex_2_1.jpg)
+![Preset1](https://github.com/kQiW/BCR2000_sysex_files/blob/master/images/bcr2000_sysex_2_1.jpg)
 
 ## Midi channel 1 , Preset 2
 
-![Preset2](https://github.com/iwQku/BCR2000_sysex_files_0/blob/master/images/bcr2000_sysex_2_2.jpg)
+![Preset2](https://github.com/kQiW/BCR2000_sysex_files/blob/master/images/bcr2000_sysex_2_2.jpg)
 
 ## Midi channel 1 , Preset 3
 
-![Preset3](https://github.com/iwQku/BCR2000_sysex_files_0/blob/master/images/bcr2000_sysex_2_3.jpg)
+![Preset3](https://github.com/kQiW/BCR2000_sysex_files/blob/master/images/bcr2000_sysex_2_3.jpg)
 
 ## Other Midi channels mapping
 
@@ -26,7 +26,7 @@ Midi Channel 3 (from cc 0 to cc 127) will be mapped on BCR2000 presets 7 , 8 and
 and so on . 
 
 
-![Preset1](https://github.com/iwQku/BCR2000_sysex_files_0/blob/master/images/bcr2000_sysex_2_4.jpg)
+![Preset1](https://github.com/kQiW/BCR2000_sysex_files/blob/master/images/bcr2000_sysex_2_4.jpg)
 
 ## Recommended software
 
@@ -39,6 +39,6 @@ freely available in the Download section
 
 ## Authors
 
-* **Lazzarino Ivo** - [iwQku](https://github.com/iwQku/)
+* **Lazzarino Ivo** - [iwQku](https://github.com/kQiW/)
 
 
