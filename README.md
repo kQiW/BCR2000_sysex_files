@@ -3,7 +3,7 @@
 
 A basic SysEx file for Behringer BCR2000 .
 
-[Download the sysex file bcr2000_backup_1.syx from GitHub](https://github.com/kQiW/BCR2000_sysex_files/raw/master/bcr2000_backup_1.syx)
+[Download bcr2000_backup_1.syx file](https://github.com/kQiW/BCR2000_sysex_files/raw/master/bcr2000_backup_1.syx)
 
 
 ## Midi channel 1 , Preset 1
