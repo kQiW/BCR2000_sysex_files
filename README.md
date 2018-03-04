@@ -31,7 +31,6 @@ and so on .
 ## Recommended software
 
 * [B-Control Edit 0.2 beta 3](https://www.musictri.be/Categories/Behringer/Computer-Audio/Desktop-Controllers/BCR2000/p/P0245)
-freely available in the Download section
 
 
 * [MIDI-OX](http://www.midiox.com/)
